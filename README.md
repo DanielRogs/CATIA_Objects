@@ -14,3 +14,7 @@
 * Utilização de CATIA;
 * Modelagem 3D de Produtos e Peças;
 * Mecânica;
+
+## Software Utilizado:
+
+ <img 
