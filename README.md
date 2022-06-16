@@ -21,6 +21,6 @@
 
 <div align = 'center'>
  
-  <img height = "65" src = "https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
+  <img height = "140" src = "https://github.com/DanielRogs/CATIA_Objects/raw/main/Assets/DS-CATIA-Logo.png">
   
  </div>
